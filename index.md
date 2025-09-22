@@ -3,23 +3,24 @@
 # Infinifly
 
 <h3>Get ready to bounce like a true master!</h3>
-<p>VR Paddle Master is an arcade VR experience where your only mission is… keep the ball from falling!</p>
-<p>Use your paddle to juggle a ball as long as possible in a clean and dynamic virtual arena. Earn points, beat your highscore, and face unexpected gameplay modifiers like:</p>
+<p>Infinifly is a fast-paced VR arcade experience set inside an endless tunnel where your only goal is simple… survive as long as possible!</p>
+<p>Dodge obstacles with lightning reflexes, face increasing speed and intensity, and challenge yourself in a game that rewards precision and focus.</p>
+<p>Key features: </p>
 <ul>
- <li>🍃Wind that changes direction</li>
- <li>🌍 Variable gravity</li>
- <li>🔻 Ball resizing</li>
+ <li>🎚 Multiple difficulties – from easy to hard, tailor the challenge to your skills.</li>
+ <li>🏁 Unlockable checkpoints – progress further and unlock new starting points to jump right back into the action.</li>
+ <li>🏆 Online leaderboards – compete globally with dedicated rankings for each checkpoint and difficulty.</li>
+ <li>⚡ Dynamic gameplay – ever-changing speed, tight passages, and complex obstacles make every run unique.</li>
  </ul>
-<p>Every round is a new challenge, and only the most skilled players will master the controlled chaos!</p>
 <h3>🎨Customize</h3>
-<p>Customize your experience: change the environment, platform, ball effect, trail, hit particles, and much more. Unlock items by playing and earning points, or optionally purchase them to expand your style.</p>
-<h3>🔁 Great for:</h3>
+<p>Customize your experience: change the environment and the obstacles, going from meadows and beaches to space ships and abstract enviroments.</p>
+<h3>🔁 Perfect for:</h3>
 <ul>
- <li>Players who want to challenge themselves</li>
- <li>Casual gamers looking for a quick, fun experience</li>
- <li>Kids and families looking for something intuitive and engaging</li>
+ <li>Players who love quick and intense challenges</li>
+ <li>Competitive gamers chasing the top spot</li>
+ <li>Casual players looking for a fast but engaging VR experience</li>
 </ul>
-<p>If you’re looking for a simple, satisfying, and challenging VR game... VR Paddle Master is your perfect pick.</p>
+<h3>💡 Highlights:</h3>
 <ul>
  <li>Leaderboards</li>
  <li>Offline gameplay</li>
