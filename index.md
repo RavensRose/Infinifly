@@ -12,8 +12,10 @@
  <li>🏆 Online leaderboards – compete globally with dedicated rankings for each checkpoint and difficulty.</li>
  <li>⚡ Dynamic gameplay – ever-changing speed, tight passages, and complex obstacles make every run unique.</li>
  </ul>
-<h3>🎨Customize</h3>
-<p>Customize your experience: change the environment and the obstacles, going from meadows and beaches to space ships and abstract enviroments.</p>
+<h3>🎨 Customize:</h3>
+<ul>
+ <li>Customize your experience: change the environment and the obstacles, going from meadows and beaches to space ships and abstract enviroments.</li>
+</ul>
 <h3>🔁 Perfect for:</h3>
 <ul>
  <li>Players who love quick and intense challenges</li>
