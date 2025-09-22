@@ -14,7 +14,7 @@
  </ul>
 <h3>🎨 Customize:</h3>
 <ul>
- <li>Customize your experience: change the environment and the obstacles, going from meadows and beaches to space ships and abstract enviroments.</li>
+ <li>Customize your experience: change the environment and the obstacles, going from meadows and beaches to space ships and abstract spaces</li>
 </ul>
 <h3>🔁 Perfect for:</h3>
 <ul>
