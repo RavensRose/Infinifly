@@ -4,7 +4,7 @@
 
 <h3>How far can you go?</h3>
 <p>Infinifly is a fast-paced VR arcade experience set inside an endless tunnel where your only goal is simple… survive as long as possible!</p>
-<p>Dodge obstacles with lightning reflexes, face increasing speed and intensity, and challenge yourself in a game that rewards precision and focus.</p>
+<p>Dodge obstacles with lightning reflexes, face increasing speed and intensity, and challenge yourself in a game that needs precision and focus.</p>
 <p>Key features: </p>
 <ul>
  <li>🎚 Multiple difficulties – from easy to hard, tailor the challenge to your skills.</li>
