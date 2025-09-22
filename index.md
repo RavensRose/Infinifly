@@ -5,7 +5,7 @@
 <h3>How far can you go?</h3>
 <p>Infinifly is a fast-paced VR arcade experience set inside an endless tunnel where your only goal is simple… survive as long as possible!</p>
 <p>Dodge obstacles with lightning reflexes, face increasing speed and intensity, and challenge yourself in a game that needs precision and focus.</p>
-<p>Key features: </p>
+<h3>💡 Highlights:</h3>
 <ul>
  <li>🎚 Multiple difficulties – from easy to hard, tailor the challenge to your skills.</li>
  <li>🏁 Unlockable checkpoints – progress further and unlock new starting points to jump right back into the action.</li>
@@ -19,12 +19,6 @@
  <li>Players who love quick and intense challenges</li>
  <li>Competitive gamers chasing the top spot</li>
  <li>Casual players looking for a fast but engaging VR experience</li>
-</ul>
-<h3>💡 Highlights:</h3>
-<ul>
- <li>Leaderboards</li>
- <li>Offline gameplay</li>
- <li>One-time purchase</li>
 </ul>
 <p>
 <a href="https://www.meta.com/experiences/vr/1234567890" target="_blank" style="
