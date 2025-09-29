@@ -1,22 +1,23 @@
 Privacy Policy
-Last updated: September 22, 2025
+Last updated: September 29, 2025
 
 Introduction
 This Privacy Policy applies to the game Infinifly. We value your privacy and want to be transparent about how we handle your information.
 
 Data Collection
-Infinifly does not collect, store, or share any personal data or usage information with the developer.
-The game does not use advertising, login systems, or external analytics, and we do not access or transmit any player data to servers outside of the Meta platform.
+Infinifly does not directly collect, store, or share any personal data or usage information with the developer.
+The game does not use advertising, external login systems, or third-party analytics, and we do not transmit any player data outside of the Meta platform.
 
-However, the game uses some platform features provided by Meta Quest:
+However, the game relies on standard Meta Quest platform services, which may involve data collection managed entirely by Meta:
 
-Leaderboards: The game includes leaderboards managed entirely by the Meta Quest platform. No personal information is collected or stored by the developer.
+Leaderboards: The game includes leaderboards provided by Meta Quest.
  In this process, Meta may collect and process:
   - Oculus user ID
-  - Gamertag
+  - Gamertag / display name
   - Score submissions and rankings
 
-Cloud Storage: Saved game data and player progress may be stored locally on the device and automatically backed up to Meta’s cloud storage. This data is only used by the application to function properly and is not accessed or collected by the developer. 
+Cloud Storage: Game data and player progress may be stored locally on the device and automatically backed up to Meta’s cloud storage.
+This data is only used to enable proper game functionality. It may include:
  This may involve:
   - Device identifiers
   - App save files
@@ -24,24 +25,24 @@ Cloud Storage: Saved game data and player progress may be stored locally on the 
   These files are stored on the user’s device and may be synced to Meta’s servers.
 
 Internet Access and Permissions
-The game may require Internet access only to enable leaderboard functionality and cloud save synchronization. No data is shared with the developer or third parties outside the Meta platform.
-  The game may connect to the internet solely to:
+Internet access may be required solely to:
   - Submit and retrieve leaderboard scores
   - Sync cloud save data
+No data is shared with the developer or third parties outside the Meta platform.
 
-Analytics
-After publishing, Meta may collect and provide aggregated, anonymized analytics to the developer through the Meta Developer Dashboard.  
- This may include:
+Platform Analytics
+Meta may provide aggregated, anonymized analytics to the developer via the Meta Developer Dashboard.
+This may include:
   - Total number of users
   - Regional distribution (by country)
   - Device types and OS versions
-  - Application session duration and performance metrics
+  - Session duration and performance metrics
 
-These analytics do not include any personal user data or identifiable information, and are used solely to improve the application and understand general usage trends.
+These analytics do not include personal user data or identifiable information, and are used only to improve the game and understand general usage trends.
 
 Children’s Privacy
-Infinifly does not knowingly collect personal information from children. The game may store local or cloud-based save data, but this information is not accessed or used by the developer in any way.
-Any data processed through Meta’s platform (such as save files or leaderboard entries) is managed entirely by Meta in accordance with their own policies.
+Infinifly does not knowingly collect personal information from children. 
+Any data processed through Meta’s services (e.g., save files or leaderboard entries) is handled exclusively by Meta in accordance with their own policies.
 
 Data Responsibility
 The developer does not access or use any personal data collected or processed by Meta services. For information on how Meta handles user data, please refer to the [Meta Privacy Policy](https://www.meta.com/legal/privacy-policy/).
