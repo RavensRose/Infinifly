@@ -1,56 +1,82 @@
-Privacy Policy
+**Privacy Policy**
 Last updated: September 29, 2025
 
-Introduction
-This Privacy Policy applies to the game Infinifly. We value your privacy and want to be transparent about how we handle your information.
+### Introduction
 
-Data Collection
-Infinifly does not directly collect, store, or share any personal data or usage information with the developer.
-The game does not use advertising, external login systems, or third-party analytics, and we do not transmit any player data outside of the Meta platform.
+This Privacy Policy applies to the game *Infinifly*. We value your privacy and want to be transparent about how we handle your information.
 
-However, the game relies on standard Meta Quest platform services, which may involve data collection managed entirely by Meta:
+### Data Collection
 
-Leaderboards: The game includes leaderboards provided by Meta Quest.
- In this process, Meta may collect and process:
-  - Oculus user ID
-  - Gamertag / display name
-  - Score submissions and rankings
+*Infinifly* does not directly collect, store, or share personal data with the developer.
+The game does not use advertising, third-party logins, or external analytics.
 
-Cloud Storage: Game data and player progress may be stored locally on the device and automatically backed up to Meta’s cloud storage.
-This data is only used to enable proper game functionality. It may include:
- This may involve:
-  - Device identifiers
-  - App save files
-  - Local settings or progress
-  These files are stored on the user’s device and may be synced to Meta’s servers.
+However, to provide core features, the game relies on **Meta Quest platform services**, which may involve data collection managed entirely by Meta:
 
-Internet Access and Permissions
-Internet access may be required solely to:
-  - Submit and retrieve leaderboard scores
-  - Sync cloud save data
-No data is shared with the developer or third parties outside the Meta platform.
+#### User ID and Profile
 
-Platform Analytics
-Meta may provide aggregated, anonymized analytics to the developer via the Meta Developer Dashboard.
+When you use the game, Meta may process:
+
+* Oculus user ID
+* Display name (gamertag / user profile name)
+
+These are used exclusively to identify players on leaderboards and for cloud save synchronization. The developer does not access or store this information outside of the Meta platform.
+
+#### Leaderboards
+
+The game includes leaderboards managed by Meta. Meta may process:
+
+* User ID and display name
+* Score submissions and rankings
+
+#### Cloud Storage
+
+Game data and player progress may be stored locally and automatically synced to Meta’s cloud storage.
 This may include:
-  - Total number of users
-  - Regional distribution (by country)
-  - Device types and OS versions
-  - Session duration and performance metrics
 
-These analytics do not include personal user data or identifiable information, and are used only to improve the game and understand general usage trends.
+* Device identifiers
+* App save files
+* Local settings or progress
 
-Children’s Privacy
-Infinifly does not knowingly collect personal information from children. 
-Any data processed through Meta’s services (e.g., save files or leaderboard entries) is handled exclusively by Meta in accordance with their own policies.
+#### Platform Analytics
 
-Data Responsibility
-The developer does not access or use any personal data collected or processed by Meta services. For information on how Meta handles user data, please refer to the [Meta Privacy Policy](https://www.meta.com/legal/privacy-policy/).
+Meta may provide anonymized, aggregated analytics to the developer, such as:
 
-Changes to This Privacy Policy
-We may update this Privacy Policy in the future. Any changes will be posted on this page with a new revision date.
+* Number of users
+* Device types and OS versions
+* Regional distribution
+* Session duration and performance metrics
 
-Contact Us
-If you have any questions about this Privacy Policy, feel free to contact us at:
+These analytics contain no personally identifiable information.
 
-📧 ravensrosedev@gmail.com
+### Internet Access and Permissions
+
+Internet connectivity is required only to:
+
+* Submit and retrieve leaderboard scores
+* Sync cloud save data
+
+No personal data is transmitted to the developer or to third parties outside of Meta.
+
+### Data Deletion Requests
+
+Because all personal data (User ID, profile name, scores, and save data) is processed by Meta, users may request data deletion directly through their Meta account settings:
+👉 [Meta Privacy Policy – Data Rights](https://www.meta.com/legal/privacy-policy/)
+
+If you have further questions, you may also contact the developer.
+
+### Children’s Privacy
+
+*Infinifly* does not knowingly collect personal information from children. Any data processed is handled exclusively by Meta.
+
+### Data Responsibility
+
+The developer does not access, collect, or use any personal data from players. All data handling is managed by Meta according to their policies.
+
+### Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Updates will be posted here with a new revision date.
+
+### Contact Us
+
+If you have questions about this Privacy Policy, please contact us at:
+📧 [ravensrosedev@gmail.com](mailto:ravensrosedev@gmail.com)
