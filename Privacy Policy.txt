@@ -1,42 +1,46 @@
 **Privacy Policy**
-Last updated: September 29, 2025
+Last updated: October 1, 2025
 
 ### Introduction
 This Privacy Policy applies to the game *Infinifly*. We value your privacy and want to be transparent about how we handle your information.
 
-### Data Collection
+### Data Collection and Use
 Infinifly does not directly collect, store, or share personal data with the developer.
 The game does not use advertising, third-party logins, or external analytics.
 
-However, to provide core features, the game relies on **Meta Quest platform services**, which may involve data collection managed entirely by Meta:
+However, to provide core features, the game relies on **Meta Quest platform services**, which process certain data on behalf of the developer:
 
 #### User ID and Profile
 When you use the game, Meta may process:
 * Oculus user ID
 * Display name (gamertag / user profile name)
 
-These are used exclusively to identify players on leaderboards and for cloud save synchronization. The developer does not access or store this information outside of the Meta platform.
+#How this data is used:
+*To display your name on in-game leaderboards
+*To associate your scores and rankings with your account
+*To synchronize your save data across devices via cloud storage
+
+This data is not accessed, stored, or transmitted by the developer outside the Meta platform.
 
 #### Leaderboards
-The game includes leaderboards managed by Meta. Meta may process:
+Leaderboards are provided by Meta. To function, they process:
 * User ID and display name
 * Score submissions and rankings
 
 #### Cloud Storage
-Game data and player progress may be stored locally and automatically synced to Meta’s cloud storage.
-This may include:
+Game progress may be stored locally and automatically synced via Meta’s cloud service. This may include:
 * Device identifiers
 * App save files
 * Local settings or progress
 
 #### Platform Analytics
-Meta may provide anonymized, aggregated analytics to the developer, such as:
+Meta may provide anonymized, aggregated analytics to the developer through the Developer Dashboard, including:
 * Number of users
 * Device types and OS versions
 * Regional distribution
 * Session duration and performance metrics
 
-These analytics contain no personally identifiable information.
+These reports do not contain personally identifiable information.
 
 ### Internet Access and Permissions
 Internet connectivity is required only to:
@@ -46,8 +50,13 @@ Internet connectivity is required only to:
 No personal data is transmitted to the developer or to third parties outside of Meta.
 
 ### Data Deletion Requests
-Because all personal data (User ID, profile name, scores, and save data) is processed by Meta, users may request data deletion directly through their Meta account settings:
-[Meta Privacy Policy – Data Rights](https://www.meta.com/legal/privacy-policy/)
+Because all personal data (User ID, profile name, scores, and save data) is processed by Meta on behalf of the app, users may request data deletion directly,
+you may request deletion of this data through:
+
+Your Meta account settings → Meta Privacy Policy – Data Rights
+Or by contacting the developer directly at 📧 ravensrosedev@gmail.com
+
+Upon receiving a deletion request, the developer will work with Meta to ensure your data is deleted where applicable.
 
 If you have further questions, you may also contact the developer.
 
@@ -55,7 +64,7 @@ If you have further questions, you may also contact the developer.
 *Infinifly* does not knowingly collect personal information from children. Any data processed is handled exclusively by Meta.
 
 ### Data Responsibility
-The developer does not access, collect, or use any personal data from players. All data handling is managed by Meta according to their policies.
+The developer does not access, collect, or use any personal data from players beyond what is processed by Meta platform features. All data handling is managed by Meta according to their policies.
 
 ### Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. Updates will be posted here with a new revision date.
